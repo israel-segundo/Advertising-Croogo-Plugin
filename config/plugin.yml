@@ -1,0 +1,7 @@
+name: Advertising
+description: This plugin manage ads (creation, monitoring). Every ad can redirect to a given URL and may register click counting.
+
+author: Israel Segundo
+authorEmail: israel.segundo@gmail.com
+authorUrl: 
+
